@@ -19,7 +19,6 @@ module.exports = {
         { name: '📊 /me', value: 'Displays your message activity statistics.' },
         { name: '📈 /top', value: 'Displays the top 5 users in terms of message activity.' },
         { name: '🔍 /statsuser', value: 'Displays message activity statistics of a specified user.' },
-        { name: '💹 /pricesfunded', value: 'Displays the price of the "Funded" cryptocurrency.' }
       )
       .setColor(0x00FF00)
       .setFooter({ text: 'Type /command to use a specific command.', iconURL: interaction.user.displayAvatarURL() });
