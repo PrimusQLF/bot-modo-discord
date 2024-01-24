@@ -1,2 +1,1 @@
-# bot-modo-discord
-Discord moderation bot with all commands.
+Open a terminal and execute the following command: npm init, press Enter several times, then execute the command: npm i. Once this is done, put your bot's token in the config.js file along with the bot owners' IDs. Finally, run node index.js.
